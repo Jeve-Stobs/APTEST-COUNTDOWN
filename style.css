@@ -91,9 +91,9 @@ line-height: 50px;
 }
 
 html {
-background: black url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cottodeste.us%2Fcollection%2Fblack-white&psig=AOvVaw3P6rAeRpAXmO_4ZLYKCfIY&ust=1609878625488000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCa2q6Pg-4CFQAAAAAdAAAAABAD); 
-background-repeat: no-repeat;
-  background-size: cover;
+background: rgb(226,174,238);
+background: radial-gradient(circle, rgba(226,174,238,1) 0%, rgba(233,188,148,1) 100%);
+background-size: cover;
  overflow-y: hidden; /* Hide vertical scrollbar */
   overflow-x: hidden; /* Hide horizontal scrollbar */
 }
