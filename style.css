@@ -71,6 +71,13 @@ text-align: center;
 font-family: 'Poppins';
 font-weight: 600;
 }
+h2 {
+font-size: 50px;
+vertical-align: text-middle;
+text-align: center;
+font-family: 'Poppins';
+font-weight: 600;
+}
 
 
 h5.christmassection {
