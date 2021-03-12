@@ -20,5 +20,5 @@ var acountDownDate = new Date(
         (document.getElementById("amins").innerHTML = ""),
         (document.getElementById("asecs").innerHTML = ""),
         (document.getElementById("aend").innerHTML =
-          "It's christmas! Go get your presents! :D"));
+          "It's test time!✏️ Good luck :D"));
   }, 10);
