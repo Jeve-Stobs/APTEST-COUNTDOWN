@@ -1,5 +1,5 @@
 var acountDownDate = new Date(
-    "May 10, 2021 8:30:00".replace(/-/g, "/")
+    "May 10, 2021 8:00:00".replace(/-/g, "/")
   ).getTime(),
   amyfunc = setInterval(function () {
     var a = new Date().getTime(),
